@@ -37,6 +37,9 @@ education:
     - course: BSc in Artificial Intelligence
       institution: Massachusetts Institute of Technology
       year: 2008
+    - course: shanghai university
+      institution: ffdfffdsdsf
+      year: 2000
 email: ""
 superuser: true
 highlight_name: true
