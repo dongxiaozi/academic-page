@@ -29,6 +29,8 @@ abstract: Aiming at addressing the issues related to the tuning of loop closure
   map quality.
 draft: false
 featured: false
+projects:
+  - Graph-based SLAM
 image:
   filename: featured.jpg
   focal_point: Smart
