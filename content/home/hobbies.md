@@ -23,11 +23,11 @@ feature:
 - description: 
   icon: person-hiking
   icon_pack: fas
-  name: hiking
+  name: Hiking
 - description: 
   icon: pen
   icon_pack: fas
-  name: sketch
+  name: Sketch
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"
