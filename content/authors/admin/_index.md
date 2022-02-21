@@ -1,7 +1,7 @@
 ---
 title: Dongxiao Han
 role: Ph.D. of Shanghai Key Laboratory of Intelligent Manufacturing and Robotics
-avatar_filename: 照片.jpg
+avatar_filename: https://www.researchgate.net/profile/image/key/Dongxiao-Han-4
 bio: My research interests include lifelong learning, robot perception and
   manipulation human-robot interactive.
 interests:
