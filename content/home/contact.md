@@ -31,7 +31,7 @@ content:
     street: No.99, Shangda Road
     city: Shanghai
     #region: CA
-    #postcode: '94305'
+    postcode: '200444'
     country: China
     #country_code: US
   coordinates:
