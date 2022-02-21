@@ -20,11 +20,11 @@ feature:
   icon: camera-retro
   icon_pack: fas
   name: Photography
-- description: 90%
-  icon: r-project
-  icon_pack: fab
+- description: 
+  icon: person-hiking
+  icon_pack: fas
   name: hiking
-- description: 100%
+- description: 
   icon: pen
   icon_pack: fas
   name: sketch
