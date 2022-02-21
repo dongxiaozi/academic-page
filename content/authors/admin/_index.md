@@ -1,19 +1,18 @@
 ---
 title: Dongxiao Han
-role: Professor of Artificial Intelligence
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+role: Ph.D. of Shanghai Key Laboratory of Intelligent Manufacturing and Robotics
+avatar_filename: 照片.jpg
+bio: My research interests include lifelong learning, robot perception and
+  manipulation human-robot interactive.
 interests:
   - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Lifelong Robot Learning
+  - Robot Perception and Manipulation
+  - Human-Robot Interactive Learning
 social:
   - icon: envelope
     icon_pack: fas
     link: /#contact
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
   - icon: graduation-cap
     icon_pack: fas
     link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
@@ -24,8 +23,8 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Shanghai University
+    url: https://www.shu.edu.cn/
 education:
   courses:
     - course: MEng in Artificial Intelligence
