@@ -30,13 +30,13 @@ content:
   address:
     street: No.99, Shangda Road
     city: Shanghai
-    region: CA
-    postcode: '94305'
-   # country: China
-    country_code: US
- # coordinates:
- #   latitude: '37.4275'
- #   longitude: '-122.1697'
+    #region: CA
+    #postcode: '94305'
+    country: China
+    #country_code: US
+  coordinates:
+    latitude: '31.31671'
+    longitude: '121.39215'
   directions: 429A, Building 9, East District
 
 design:
