@@ -25,9 +25,9 @@ date_format: Jan 2006
 item:
 - certificate_url: ""
   date_end: ""
-  date_start: "2018"
+  date_start: "2018-01-01"
   description:  ""
-  organization: ""
+  organization: Shanghai University
   organization_url: ""
   title: Excellent Volunteer of Shanghai University 
   url: ""
