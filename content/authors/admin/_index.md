@@ -26,7 +26,7 @@ education:
   courses:
     - course: Shandong University of Science and Technology (Bachelor)
       institution: " School of Mechanical and Electronic Engineering"
-      year: -2
+      year: 2017
     - course: Shanghai University (Master)
       institution: "School of Mechatronics and Automation "
       year: ""
