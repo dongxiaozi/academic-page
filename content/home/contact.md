@@ -28,7 +28,7 @@ content:
   email: handongxiao@shu.edu.cn
   phone: +86 15316008906
   address:
-    street: No.99, Shangda Road
+    street: No.99 Shangda Road
     city: Shanghai
     #region: CA
     postcode: '200444'
