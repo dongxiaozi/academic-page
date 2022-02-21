@@ -22,7 +22,7 @@ feature:
   name: Photography
 - description: 
   icon: person-hiking-solid
-  icon_pack: custom
+  icon_pack: custom fas
   name: Hiking
 - description: 
   icon: pen
