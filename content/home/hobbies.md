@@ -21,7 +21,7 @@ feature:
   icon_pack: fas
   name: Photography
 - description: 
-  icon: person-biking
+  icon: person-hiking-solid
   icon_pack: fas
   name: Hiking
 - description: 
