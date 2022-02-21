@@ -10,7 +10,7 @@ headless: true
 weight: 40
 
 # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-title: 'Extracurricular Activities and Awards'
+title: 'Extracurricular Activities and Awards1'
 subtitle:
 
 # Date format
@@ -27,7 +27,7 @@ item:
   date_end: ""
   date_start: "2018-01-01"
   description:  ""
-  organization: Shanghai University
+  organization: ShanghaiUniversity
   organization_url: ""
   title: Excellent Volunteer of Shanghai University 
   url: ""
