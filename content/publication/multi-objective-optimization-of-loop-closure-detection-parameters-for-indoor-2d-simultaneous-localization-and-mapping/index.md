@@ -8,6 +8,7 @@ authors:
   - Yuwen Li
   - Tao Song
   - Zhenyang Liu
+doi: 10.3390/s20071906
 publication: SENSORS
 publication_short: SENSORS
 abstract: Aiming at addressing the issues related to the tuning of loop closure
