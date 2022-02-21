@@ -26,13 +26,11 @@ item:
 - certificate_url: ""
   date_end: ""
   date_start: "2018"
-  description:  Excellent Volunteer of Shanghai University 
-  #organization: Coursera
-  #organization_url: https://www.coursera.org
-  #title: Neural Networks and Deep Learning
+  description:  ""
+  organization: ""
+  organization_url: ""
+  title: Excellent Volunteer of Shanghai University 
   url: ""
-- date_start: "2018"
-  description:  Volunteer work during the School Anniversary 
 # - certificate_url: https://www.edx.org
 #   date_end: ""
 #   date_start: "2021-01-01"
