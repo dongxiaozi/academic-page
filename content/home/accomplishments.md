@@ -31,7 +31,46 @@ item:
   organization_url: ""
   title: Excellent Volunteer of Shanghai University
   url: ""
-
+- certificate_url: ""
+  date_end: ""
+  date_start: "2018-06-25"
+  description: ""
+  organization: Shanghai University
+  organization_url: ""
+  title: Volunteer work during the School Anniversary 
+  url: ""
+- certificate_url: ""
+  date_end: ""
+  date_start: "2017-09-25"
+  description: ""
+  organization: Shandong University
+  organization_url: ""
+  title: Outstanding Student Leader of Shandong University of Science and Technology
+  url: ""
+- certificate_url: ""
+  date_end: ""
+  date_start: "2017-06-25"
+  description: ""
+  organization: Shandong University
+  organization_url: ""
+  title: Top notch talents in scientific and technological innovation
+  url: ""
+- certificate_url: ""
+  date_end: ""
+  date_start: "2016-06-25"
+  description: ""
+  organization: Shandong Province
+  organization_url: ""
+  title: The 2 st Prize in Mechanical and Electrical Product Innovation Design Competition of Shandong Province 
+  url: ""
+- certificate_url: ""
+  date_end: ""
+  date_start: "2016-06-25"
+  description: ""
+  organization: Shandong Province
+  organization_url: ""
+  title: The Sanshan enterprise scholarship 
+  url: ""
 design:
   columns: '2' 
 ---
