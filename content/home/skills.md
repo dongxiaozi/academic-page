@@ -29,8 +29,8 @@ feature:
   icon_pack: fas
   name: Photography
 - description: 10%
-  icon: gamepad-modern
-  icon_pack: fa
+  icon: game-board
+  icon_pack: fab
   name: Game
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
