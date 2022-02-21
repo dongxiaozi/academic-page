@@ -6,9 +6,8 @@ url_video: ""
 date: 2017-10-25T00:00:00.000Z
 external_link: ""
 url_slides: ""
-title: Example Project
-tags:
-  - Deep Learning
+title: Calibration Method of Dual Two-dimensional Lasers Project
+tags: []
 links: []
 image:
   caption: Photo by Dongxiao Han
