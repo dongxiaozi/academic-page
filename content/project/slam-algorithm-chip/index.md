@@ -5,7 +5,7 @@ draft: false
 featured: false
 image:
   filename: featured.jpg
-  focal_point: Smart
+  focal_point: center
   preview_only: false
 ---
 Project description: Efficient Perception of Unknown Environment and Modularization of Map Construction Technology (this research is supported by the Key Research Project of Ministry of Science and Technology (Grant No. 2019YFB1310003)) (Proceed)
