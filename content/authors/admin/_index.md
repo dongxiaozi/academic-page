@@ -19,30 +19,26 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/gcushen
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/
 organizations:
   - name: Shanghai University
     url: https://www.shu.edu.cn/
 education:
   courses:
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
-    - course: shanghai university
-      institution: ffdfffdsdsf
-      year: 2000
-email: ""
+    - course: School of Mechanical and Electronic Engineering
+      institution: Shandong University of Science and Technology
+      year: ""
+    - course: School of Mechatronics and Automation
+      institution: Shanghai University
+      year: ""
+    - course: School of Mechatronics and Automation
+      institution: Shanghai University
+      year: ""
+email: handongxiao@shu.edu.cn
 superuser: true
 highlight_name: true
 ---
+Dongxiao Han  is a phd of Shanghai Key Laboratory of Intelligent Manufacturing and Robotics at the Shanghai University. Her research interests include lifelong machine learning, robot perception and manipulation, human-robot interactive. Now she focuses on the lifelong learning in object perception and manipulation, which develops deep-learning-based method for object perception(e.g., few-shot learning), new objects learning(e.g., human instructions) and new task learning(e.g. knowledge graph), grasp parameters calculation.
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+She believes that there is still a long way for intelligent robots to perceive and process the surrounding environment like human, and to complete various tasks autonomously in a complex and dynamic environment. But she is willing to fight for it.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
