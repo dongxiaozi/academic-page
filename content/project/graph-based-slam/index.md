@@ -5,7 +5,7 @@ draft: false
 featured: false
 image:
   filename: featured.jpg
-  focal_point: Smart
+  focal_point: center
   preview_only: false
 ---
 Project description: The horizontal R&D project "Heavy-duty AGV Technical Support and Product Cooperation Agreement" (this research is completed in cooperation with Shanghai Wodi Intelligent Equipment Co., Ltd.)
