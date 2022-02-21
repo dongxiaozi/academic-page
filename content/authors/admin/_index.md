@@ -29,7 +29,7 @@ education:
       year: 2013
     - course: Shanghai University (Master)
       institution: "School of Mechatronics and Automation "
-      year: 2015
+      year: ""
     - course: Shanghai University (Ph.D.)
       institution: "School of Mechatronics and Automation "
       year: 2020
