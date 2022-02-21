@@ -29,7 +29,7 @@ feature:
   icon_pack: fas
   name: Photography
 - description: 10%
-  icon: game-board
+  icon: gamepad
   icon_pack: fab
   name: Game
 # Uncomment to use emoji icons.
