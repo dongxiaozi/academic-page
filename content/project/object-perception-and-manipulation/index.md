@@ -7,6 +7,7 @@ image:
   filename: featured.jpg
   focal_point: Smart
   preview_only: false
+  alt_text: Photo by Dongxiao Han
 ---
 Project description: Based on visual cameras, study object detection and recognition, grasping and placement. This research is supported by the Shanghai Municipal Education Commission Oriental Scholars Project "Robotics and Intelligent Manufacturing", project number: TP2015042 and the horizontal research and development project of Shanghai University "LOAD MOBILE&MULTI Product Intelligent Function Development", project number: 21H00156.
 
