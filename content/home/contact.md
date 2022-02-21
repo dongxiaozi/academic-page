@@ -30,7 +30,7 @@ content:
   address:
     street: No.99 Shangda Road
     city: Shanghai
-    #region: CA
+    region: SHH
     postcode: '200444'
     country: China
     #country_code: US
