@@ -24,8 +24,8 @@ date_format: Jan 2006
 experience:
   - title: Algorithm Engineer
     company: Shanghai Robot Industrial Technology Research Institute 
-    # company_url: ''
-    company_logo: my-logo
+    company_url: ''
+    company_logo: ''
     location: Shanghai
     date_start: '2018-07-01'
     date_end: '2020-06-30'
