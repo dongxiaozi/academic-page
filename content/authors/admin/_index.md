@@ -24,14 +24,14 @@ organizations:
     url: https://www.shu.edu.cn/
 education:
   courses:
-    - course: School of Mechanical and Electronic Engineering
-      institution: Shandong University of Science and Technology (Bachelor)
+    - course: Shandong University of Science and Technology (Bachelor)
+      institution: " School of Mechanical and Electronic Engineering"
+      year: -2
+    - course: Shanghai University (Master)
+      institution: "School of Mechatronics and Automation "
       year: ""
-    - course: School of Mechatronics and Automation
-      institution: Shanghai University (Master)
-      year: ""
-    - course: School of Mechatronics and Automation
-      institution: Shanghai University (Ph.D.)
+    - course: Shanghai University (Ph.D.)
+      institution: "School of Mechatronics and Automation "
       year: ""
 email: handongxiao@shu.edu.cn
 superuser: true
