@@ -26,13 +26,13 @@ education:
   courses:
     - course: Shandong University of Science and Technology (Bachelor)
       institution: " School of Mechanical and Electronic Engineering"
-      year: 2017
+      year: 2013
     - course: Shanghai University (Master)
       institution: "School of Mechatronics and Automation "
-      year: ""
+      year: 2015
     - course: Shanghai University (Ph.D.)
       institution: "School of Mechatronics and Automation "
-      year: ""
+      year: 2020
 email: handongxiao@shu.edu.cn
 superuser: true
 highlight_name: true
