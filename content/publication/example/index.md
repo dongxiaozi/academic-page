@@ -35,7 +35,7 @@ url_source: ""
 url_video: ""
 title: A calibration method of dual two-dimensional laser range finders for
   mobile manipulator
-doi: ""
+doi: 10.1177/1729881419876783
 featured: true
 tags: []
 projects:
@@ -45,9 +45,9 @@ image:
   focal_point: ""
   preview_only: false
   filename: featured.jpg
-date: 2013-07-01T00:00:00Z
+date: 2013-07-01T00:00:00.000Z
 url_slides: ""
-publishDate: 2017-01-01T00:00:00Z
+publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
 url_code: ""
 ---
