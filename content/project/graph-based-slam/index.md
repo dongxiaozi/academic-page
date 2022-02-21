@@ -7,6 +7,7 @@ image:
   filename: featured.jpg
   focal_point: center
   preview_only: false
+  alt_text: Photo by Dongxiao Han
 ---
 Project description: The horizontal R&D project "Heavy-duty AGV Technical Support and Product Cooperation Agreement" (this research is completed in cooperation with Shanghai Wodi Intelligent Equipment Co., Ltd.)
 
