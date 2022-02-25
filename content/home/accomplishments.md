@@ -43,7 +43,7 @@ item:
   date_end: ""
   date_start: "2017-09-25"
   description: ""
-  organization: Shandong University
+  organization: Shandong University of Science and Technology
   organization_url: ""
   title: Outstanding Student Leader of Shandong University of Science and Technology
   url: ""
@@ -51,7 +51,7 @@ item:
   date_end: ""
   date_start: "2017-06-25"
   description: ""
-  organization: Shandong University
+  organization: Shandong University of Science and Technology
   organization_url: ""
   title: Top notch talents in scientific and technological innovation
   url: ""
@@ -59,7 +59,7 @@ item:
   date_end: ""
   date_start: "2016-06-25"
   description: ""
-  organization: Shandong Province
+  organization: Shandong University of Science and Technology
   organization_url: ""
   title: The 2 st Prize in Mechanical and Electrical Product Innovation Design Competition of Shandong Province 
   url: ""
@@ -67,7 +67,7 @@ item:
   date_end: ""
   date_start: "2016-06-25"
   description: ""
-  organization: Shandong Province
+  organization: Shandong University of Science and Technology
   organization_url: ""
   title: The Sanshan enterprise scholarship 
   url: ""
